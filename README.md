@@ -1,1 +1,1 @@
-# Compliance-As-Code Security
+# Secure Compliance-As-Code
