@@ -1,1 +1,1 @@
-# Security in Compliance-As-Code
+# Compliance-As-Code Security
