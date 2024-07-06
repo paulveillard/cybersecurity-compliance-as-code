@@ -4,8 +4,6 @@ An ongoing & curated collection of awesome software best practices and technique
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
-#  Cybersecurity - Secure Software Supply Chain Lifecycle: Theory, Techniques, and Tools
-
 
 # Theory
 ## `Theory` - Table of Contents
